@@ -9,3 +9,5 @@ Cut the css page in half by eliminating duplics of the same code.
 Added structure in the body and made a footer
 
 Made the background div into a figure 
+
+Removed multiple classes and ids
